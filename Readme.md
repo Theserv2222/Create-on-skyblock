@@ -5,5 +5,5 @@ you could maybe use it without the create mod idk i havent tried it yet
 check out my YouTube channel
 https://www.youtube.com/channel/UChECNk1JG14bDkY2Xjz-Bdg
 
-joes skyblock datapack is all ores 
+joes skyblock datapack is all ores including zinc
 joes create datapack is for only zinc

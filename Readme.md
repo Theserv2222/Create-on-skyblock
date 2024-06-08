@@ -21,3 +21,5 @@ Changelog
 added 2 crafting recipes 
 4 cobblestone=1 andesite|
 glow berries+stone=glowstone(mainly for the projectE mod)
+Added a new file
+Recipes makes cobblestone gens not produce ores but zinc is craftible from raw iron, raw gold, raw copper

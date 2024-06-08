@@ -1,3 +1,8 @@
+current minecraft version support 1.20.1
+that i know of havent tested it on other versions
+ 
+ 
+ 
 Download the create mod here
 https://www.curseforge.com/minecraft/mc-mods/create
 download the recomended world here and put the datpack there

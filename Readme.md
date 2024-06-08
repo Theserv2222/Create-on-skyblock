@@ -1,3 +1,8 @@
+Download the create mod here
+https://www.curseforge.com/minecraft/mc-mods/create
+download the recomended world here and put the datpack there
+https://www.planetminecraft.com/project/skyblock-4/
+
 Its called joes skyblock datapack becuz my discord/irl name 
 
 you could maybe use it without the create mod idk i havent tried it yet

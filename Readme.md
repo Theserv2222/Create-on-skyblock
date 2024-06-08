@@ -1,5 +1,4 @@
-current minecraft version support 1.20.1
-that i know of havent tested it on other versions
+current minecraft version support 1.20.1 since thats the only version create mod supports currently
  
  
  

@@ -10,5 +10,5 @@ joes create datapack is for only zinc
 
 Changelog
 added 2 crafting recipes 
-4 cobblestone=1 andesite
+4 cobblestone=1 andesite|
 glow berries+stone=glowstone(mainly for the projectE mod)
